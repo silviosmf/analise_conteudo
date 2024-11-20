@@ -8,7 +8,7 @@ Por meio da abordagem de few-shot learning, o modelo é capacitado a identificar
 
 Os objetivos deste projeto incluem:
 
-Tornar o processo de análise mais ágil e replicável.
-Demonstrar como LLM podem ser integrados ao trabalho acadêmico na área de ciências sociais.
+* Tornar o processo de análise mais ágil e replicável.
+* Demonstrar como LLM podem ser integrados ao trabalho acadêmico na área de ciências sociais.
 
 Explore este repositório para encontrar scripts, exemplos de prompts, e insights sobre o uso de IA na pesquisa qualitativa. Colaborações e feedback são bem-vindos!
