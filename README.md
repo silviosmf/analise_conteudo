@@ -1,8 +1,14 @@
-# AI in the Decision-Making Marketing: Considerations and Strategic Applications in Organizational Contexts
-The script was constructed by defining a detailed prompt template that instructs the model on how to categorize each abstract based on predefined criteria for strategic, tactical, operational, out-of-scope, or not identified levels. 
+# Automatizando a Análise de Conteúdo utilizando LLM para codificação de entrevistas com few-shot learning
 
-The prompt template provides clear examples and definitions for each category, ensuring the model's output is consistent and accurate. The script also includes a function to process abstracts iteratively, applying the GPT-4o-mini model and saving the results in CSV files for further analysis. 
+Este repositório contém o desenvolvimento de um projeto de pesquisa voltado a investigar os aspectos motivacionais que levam os indivíduos a aderirem à prática de CrossFit. O diferencial deste trabalho está na aplicação de modelos de linguagem (LLM) para automatizar o processo de análise de conteúdo, ampliando a codificação manual tradicional realizada por pesquisadores.
 
-By structuring the model's responses in a JSON format with specified columns, the script facilitates easy interpretation of the classification results.
+A metodologia combina transcrições de entrevistas com prompts elaborados, incluindo definições e exemplos de codificação previamente realizados pelo pesquisador. 
 
-Finally, we created some statistical outputs with data visualizations and graphs using the Seaborn library, which helped us better understand the distribution and trends within the classified data.
+Por meio da abordagem de few-shot learning, o modelo é capacitado a identificar trechos relevantes nas transcrições e vincular os códigos de forma eficiente e alinhada às instruções dadas.
+
+Os objetivos deste projeto incluem:
+
+Tornar o processo de análise mais ágil e replicável.
+Demonstrar como LLM podem ser integrados ao trabalho acadêmico na área de ciências sociais.
+
+Explore este repositório para encontrar scripts, exemplos de prompts, e insights sobre o uso de IA na pesquisa qualitativa. Colaborações e feedback são bem-vindos!
